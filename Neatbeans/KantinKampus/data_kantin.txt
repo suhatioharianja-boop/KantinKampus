@@ -1,0 +1,9 @@
+TENANT|1|Ayam Geprek
+MENU|1|MAKANAN|1|Ayam Geprek|15000.0|2
+MENU|1|MAKANAN|2|Nasi Putih|4000.0|0
+MENU|1|MINUMAN|3|Es Teh Manis|4000.0|Dingin
+TENANT|2|Bakso Pak Budi
+MENU|2|MAKANAN|4|Bakso Urat|13000.0|1
+MENU|2|MINUMAN|5|Teh Hangat|3000.0|Panas
+TENANT|3|napit
+MENU|3|MAKANAN|6|makan napit|100000.0|1
