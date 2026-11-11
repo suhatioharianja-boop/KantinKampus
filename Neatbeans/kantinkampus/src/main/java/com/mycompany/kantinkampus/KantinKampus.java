@@ -12,8 +12,8 @@ import java.util.Scanner;
 public class KantinKampus {
 
     private static final String FILE_DATA = "data_kantin.txt";
-    private static final String ADMIN_USERNAME = "rohman";
-    private static final String ADMIN_PASSWORD = "rohmanviral";
+    private static final String ADMIN_USERNAME = "admin";
+    private static final String ADMIN_PASSWORD = "admin123";
 
     private static final Scanner input = new Scanner(System.in);
     private static final ArrayList<Tenant> daftarTenant = new ArrayList<>();
